@@ -13,29 +13,29 @@ This is a simple blog website that I created using HTML, CSS, and JavaScript. Th
 
 Here are some screenshots of the website:
 
-### Home Page
+### Login Page
+![Login page](https://github.com/ABDULBASIT1998/blog_website/assets/41535239/79917e10-513e-4565-b63b-b2afd5f51b8d)
 
-![Home Page]
+### Create Account Page
+![Create Account page](https://github.com/ABDULBASIT1998/blog_website/assets/41535239/cad1b79d-b95b-4e31-a981-682e43f1bcfb)
+
+### Home Page
+![Home page](https://github.com/ABDULBASIT1998/blog_website/assets/41535239/2801fadc-8db5-4b43-bcdc-7f020a5c94e7)
 
 ### About Page
+![About page](https://github.com/ABDULBASIT1998/blog_website/assets/41535239/f62fdbe7-f130-4c21-a676-bfd9238c2b44)
 
-![About Page]
+### Article page
+![Article page](https://github.com/ABDULBASIT1998/blog_website/assets/41535239/5c84634a-52bd-47d8-a337-264b7e29ca18)
 
-### Articles Page
+### Article List page
+![Article list page](https://github.com/ABDULBASIT1998/blog_website/assets/41535239/6429b86d-df17-4526-a039-44a034d5edfc)
 
-![Articles Page]
+### Comments Feature
+![Comments and Add comment feature](https://github.com/ABDULBASIT1998/blog_website/assets/41535239/bda563f9-db6a-4942-8929-c94bc1e09b85)
 
-### Login Page
 
-![Login Page]
 
-### Account Page
-
-![Account Page]
-
-### Article Page
-
-![Article Page]
 
 ## How to Run
 
