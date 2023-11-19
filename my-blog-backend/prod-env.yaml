@@ -1,0 +1,4 @@
+
+env_variables:
+  MONGO_USERNAME : node-server-blog
+  MONGO_PASSWORD : gXFHk7FVlxhJ956i
